@@ -254,7 +254,7 @@ we(boo)
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/b98c10c6-e2a1-4417-b52f-bcee220ccb73)
+![image](https://github.com/user-attachments/assets/5f089d43-5c46-4d13-9c7f-219f6a835ae2)
 
 ![image](https://github.com/user-attachments/assets/ec59e9bb-bdf5-4d18-834e-88f5d61cbd1e)
 
