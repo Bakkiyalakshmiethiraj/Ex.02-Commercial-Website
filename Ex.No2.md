@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e890c695-6920-4f2f-a7cd-792f07ee199c)# Ex02 Commercial Website
+# Ex02 Commercial Website
 ## Date:
 
 ## AIM
